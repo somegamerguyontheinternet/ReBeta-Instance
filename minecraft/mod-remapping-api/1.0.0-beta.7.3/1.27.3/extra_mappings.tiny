@@ -1,0 +1,66 @@
+tiny	2	0	official	intermediary
+c	ModLoader	modloader/ModLoader
+	f	[Z	usedItemSprites	USED_ITEM_SPRITES
+	f	[Z	usedTerrainSprites	USED_TERRAIN_SPRITES
+c	ToolBase	shockahpi/ToolBase
+	f	LToolBase;	Pickaxe	PICKAXE
+	f	LToolBase;	Shovel	SHOVEL
+	f	LToolBase;	Axe	AXE
+c	BaseMod	modloader/BaseMod
+c	MLProp	modloader/MLProp
+c	BaseModMp	modloadermp/BaseModMp
+c	ISpawnable	modloadermp/ISpawnable
+c	ModLoaderMp	modloadermp/ModLoaderMp
+c	Packet230ModLoader	modloadermp/ModLoaderPacket
+c	mod_Reforged	reforged/ReforgedMod
+c	EntityRendererProxy	modloader/EntityRendererProxy
+c	ModTextureAnimation	modloader/ModTextureAnimation
+c	ModTextureStatic	modloader/ModTextureStatic
+c	NetClientHandlerEntity	modloadermp/NetClientHandlerEntity
+c	PlayerBase	playerapi/PlayerBase
+c	PlayerAPI	playerapi/PlayerAPI
+c	ACPage	shockahpi/AchievementPage
+c	AnimBase	shockahpi/AnimBase
+c	AnimPulse	shockahpi/AnimPulse
+c	AnimShift	shockahpi/AnimShift
+c	BlockHarvestPower	shockahpi/BlockHarvestPower
+c	DimensionBase	shockahpi/DimensionBase
+c	DimensionNether	shockahpi/DimensionNether
+c	DimensionOverworld	shockahpi/DimensionOverworld
+c	DungeonLoot	shockahpi/DungeonLoot
+c	GenDeposit	shockahpi/GenDeposit
+c	IInterceptBlockSet	shockahpi/IInterceptBlockSet
+c	IInterceptHarvest	shockahpi/IInterceptHarvest
+c	IReach	shockahpi/IReach
+c	Loc	shockahpi/Loc
+c	PlayerBaseSAPI	shockahpi/PlayerBaseSAPI
+c	SAPI	shockahpi/SAPI
+c	Tool	shockahpi/Tool
+c	IItemTexture	itemspriteapi/IItemTexture
+c	ItemTexture	itemspriteapi/ItemTexture
+c	GuiApiHelper	guiapi/GuiApiHelper
+c	GuiModScreen	guiapi/ModScreen
+c	GuiModSelect	guiapi/ModSelect
+c	GuiWidgetScreen	guiapi/widget/ScreenWidget
+c	ModAction	guiapi/ModAction
+c	ModSettings	guiapi/ModSettings
+c	ModSettingScreen	guiapi/ModSettingScreen
+c	Setting	guiapi/setting/Setting
+c	SettingBoolean	guiapi/setting/BooleanSetting
+c	SettingFloat	guiapi/setting/FloatSetting
+c	SettingInt	guiapi/setting/IntSetting
+c	SettingKey	guiapi/setting/KeySetting
+c	SettingMulti	guiapi/setting/MultiSetting
+c	SettingText	guiapi/setting/TextSetting
+c	WidgetBoolean	guiapi/widget/BooleanWidget
+c	WidgetClassicTwocolumn	guiapi/widget/ClassicTwoColumnWidget
+c	WidgetFloat	guiapi/widget/FloatWidget
+c	WidgetInt	guiapi/widget/IntWidget
+c	WidgetKeybinding	guiapi/widget/KeybindingWidget
+c	WidgetMulti	guiapi/widget/MultiWidget
+c	WidgetSetting	guiapi/widget/SettingWidget
+c	WidgetSimplewindow	guiapi/widget/SimpleWindowWidget
+c	WidgetSinglecolumn	guiapi/widget/SingleColumnWidget
+c	WidgetSingleRow	guiapi/widget/SingleRowWidget
+c	WidgetSlider	guiapi/widget/SliderWidget
+c	WidgetText	guiapi/widget/TextWidget

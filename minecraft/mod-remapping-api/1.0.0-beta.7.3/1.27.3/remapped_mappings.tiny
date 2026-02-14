@@ -1,0 +1,6 @@
+tiny	2	0	official	intermediary
+c	BlockBackpackStorage	net/minecraft/BlockBackpackStorage
+c	ItemBackpack	net/minecraft/ItemBackpack
+c	mod_Backpack	net/minecraft/mod_Backpack
+c	SortedProperties	net/minecraft/SortedProperties
+c	TileEntityBackpack	net/minecraft/TileEntityBackpack
